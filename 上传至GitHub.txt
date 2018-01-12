@@ -1,4 +1,10 @@
 
+
+$ git remote rm origin 
+
+É¾³ýÒÑ´æÔÚÁ´½Ó
+
+
 Maplease@Mapleased MINGW64 /d/Environment/Git/repository/KT (master)
 $ git remote add origin git@github.com:Maplease/GZDQMPAN.git
 
@@ -20,4 +26,4 @@ To github.com:Maplease/GZDQMPAN.git
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 
 Maplease@Mapleased MINGW64 /d/Environment/Git/repository/KT (master)
-$
+
