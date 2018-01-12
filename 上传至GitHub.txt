@@ -27,3 +27,11 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 
 Maplease@Mapleased MINGW64 /d/Environment/Git/repository/KT (master)
 
+
+$ git remote add origin git@github.com:Maplease/mygitresp.git
+
+1）运行PuTTYGen，在Conversions菜单中点击Import key，选择ssh-keygen生成的私钥文件所在位置，比如id_rsa文件。
+
+2）点击Save private key按钮，将其保存为.ppk文件。
+
+3）打开Pageant，点击Add Key，选择前一步所保存的.ppk文件所在的位置即可。
