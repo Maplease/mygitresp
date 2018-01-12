@@ -1,0 +1,23 @@
+
+Maplease@Mapleased MINGW64 /d/Environment/Git/repository/KT (master)
+$ git remote add origin git@github.com:Maplease/GZDQMPAN.git
+
+Maplease@Mapleased MINGW64 /d/Environment/Git/repository/KT (master)
+$ git push -u origin master
+The authenticity of host 'github.com (192.30.255.113)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,192.30.255.113' (RSA) to the list of known hosts.
+Enter passphrase for key '/c/Users/Administrator/.ssh/id_rsa':
+Counting objects: 3405, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3292/3292), done.
+Writing objects: 100% (3405/3405), 85.01 MiB | 2.40 MiB/s, done.
+Total 3405 (delta 891), reused 0 (delta 0)
+remote: Resolving deltas: 100% (891/891), done.
+To github.com:Maplease/GZDQMPAN.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+Maplease@Mapleased MINGW64 /d/Environment/Git/repository/KT (master)
+$
